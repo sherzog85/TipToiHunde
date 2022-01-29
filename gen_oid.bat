@@ -1,0 +1,1 @@
+tttool --pixel-size 3 --code-dim 42x19 oid-table dogs.yaml
