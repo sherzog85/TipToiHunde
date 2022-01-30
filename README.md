@@ -16,7 +16,11 @@ Wenn ihr direkt damit loslegen wollt, das Quiz um die TipToi-Funktion zu erweite
 * dogs.gme: Diese Datei enthält alle Sounddateien und die notwendigen Information für den TipToi, um das Hundequiz auf diesem zu spielen. [Hier](https://tttool.readthedocs.io/de/latest/konzepte.html#was-steckt-in-einer-gme-datei)
 könnt ihr genauer nachlesen, wenn ihr das Konzept der gme-Datei genauer verstehen wollt. Diese Datei könnt ihr direkt auf den Stift schieben.
 * dogs_box.pdf: In dieser Datei sind die Steuerfelder und alle Hunde-Namen in OID-Code abgebildet, wobei in jedem Codefeld ein Knochen eingebettet ist. Diese Datei
-muss ausgedruckt werden und dann jeder Knochen auf das entsprechende Hundekarte geklebt werden. Beim Drucken liegt leider der Teufel im Detail, [siehe auch hier](https://github.com/entropia/tip-toi-reveng/wiki/Printing).
+muss ausgedruckt werden und dann jeder Knochen auf das entsprechende Hundekarte geklebt werden. Folgendes Bild zeigt 3 Hundekarten mit aufgeklebtem "OID-Knochen":
+<img src="https://github.com/sherzog85/TipToiDog/blob/main/media/Karten_mit_OID_Knochen.jpg" width="50%" height="50%" />
+Die Steuerzeichen (Stop habe ich nicht verwendet), sind auf der Box aufgeklebt:
+<img src="https://github.com/sherzog85/TipToiDog/blob/main/media/Quiz_Box.jpg" width="50%" height="50%" />
+Beim Drucken liegt leider der Teufel im Detail, [siehe auch hier](https://github.com/entropia/-toi-reveng/wiki/Printing).
 Ich habe es mit meinem Drucker (Brother HL-L2370DN) mit den folgenden Druckeinstellungen gut hinbekommen:
   * Auflösung: HQ1200
   * Druckeinstellungen: Manuell
