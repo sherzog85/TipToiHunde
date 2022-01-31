@@ -22,12 +22,14 @@ Die Steuerzeichen (Stop habe ich nicht verwendet), sind auf der Box aufgeklebt:
 <img src="https://github.com/sherzog85/TipToiDog/blob/main/media/Quiz_Box.jpg" width="50%" height="50%" />
 Beim Drucken liegt leider der Teufel im Detail, [siehe auch hier](https://github.com/entropia/-toi-reveng/wiki/Printing).
 Ich habe es mit meinem Drucker (Brother HL-L2370DN) mit den folgenden Druckeinstellungen gut hinbekommen:
-  * Auflösung: HQ1200
-  * Druckeinstellungen: Manuell
-    * Helligkeit: 0
-    * Konstrast: +34
-    * Grafikqualität: Text
-    * Rest wie vorgegeben
+
+* Auflösung: HQ1200
+* Druckeinstellungen: Manuell
+  * Helligkeit: 0
+  * Konstrast: +34
+  * Grafikqualität: Text
+  * Rest wie vorgegeben
+
 Auf weiße Etiketten spricht mein TipToi hervorragend an. Allerdings hatte ich den Ehrgeiz die Knochen auf transparente Etiketten zu drucken. Das klappt zwar immer noch, aber nicht mehr ganz so gut.
 Achtung: Der Druck darf nicht skaliert werden!
 
