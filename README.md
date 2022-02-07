@@ -1,4 +1,4 @@
-# TipToiDog
+# TipToiHunde
 ## Was ist dieses Projekt?
 Meine 5-jährige Tochter spielt sehr gerne das Quiz [Wer kennt alle Hunde](https://www.laurencekingverlag.de/produkt/wer-kennt-alle-hunde/). Dabei interessiert sie sich gar nicht so sehr für die Details auf der Rückseite der Quizkarten, sondern hauptsächlich für die Hundenamen. Da sie aber noch nicht lesen kann, kann sie das Quiz nicht alleine machen. Da kam mir die Idee, den TipToi-Stift von Ravensburger dafür einzusetzen, dass sie das Spiel doch alleine spielen kann. Der Stift sollte
 also die jeweiligen Hundenamen vorlesen. Ich war zuversichtlich, dass es bestimmt paar clevere Leute gibt, die herausgefunden haben, wie man
