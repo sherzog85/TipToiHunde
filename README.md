@@ -5,6 +5,9 @@ also die jeweiligen Hundenamen vorlesen. Ich war zuversichtlich, dass es bestimm
 den Stift auch für eigene Projekt einsetzen kann. Und siehe da: Es gibt das geniale Tool [tttool](https://tttool.readthedocs.io/de/latest/vorwort.html). Hiermit
 konnte ich das Projekt in ca. einem Tag umsetzen. Desweiteren war noch ein bisschen Python-Coding notwendig.
 
+Hier findet ihr ein kleines Video, welches die Funktion demonstriert:
+https://www.youtube.com/watch?v=Ge0TiCLqDy4
+
 ## Wie funktioniert der TipToi-Stift überhaupt?
 Dies wird [hier](https://tttool.readthedocs.io/de/latest/konzepte.html#wie-funktioniert-der-stift) hervorragend beschrieben und daher erlaube ich mir die Faulheit,
 die Funktionsweise nicht näher zu erläutern. Es sei nur so viel gesagt:
